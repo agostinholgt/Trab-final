@@ -1,3 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Bom dia o sol ja nasceu la na fazendinha!");
-     
+Console.WriteLine("má noite!");
+
+Console.WriteLine("Boa tarde");
+
+Console.WriteLine("67");
+
+Console.WriteLine("999");
