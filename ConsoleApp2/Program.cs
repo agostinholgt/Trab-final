@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("augusto");
 
-Console.WriteLine("Boa tarde");
+Console.WriteLine("thalles");
 
 Console.WriteLine("67");
 
