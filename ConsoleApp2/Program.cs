@@ -6,8 +6,3 @@ Console.WriteLine("thalles");
 Console.WriteLine("Igor");
 
 Console.WriteLine("matheus henrique");
-Console.WriteLine("má noite!");
- 
-Console.WriteLine("Boa tarde");
-
-Console.WriteLine("67");
