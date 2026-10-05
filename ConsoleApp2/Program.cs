@@ -9,3 +9,9 @@ Console.WriteLine("Igor");
 Console.WriteLine("matheus henrique");
 
 
+List<string> nomes = new List<string>();
+
+nomes.Add("Lula");
+nomes.Add("Ciro");
+nomes.Add("Dilma");
+Console.WriteLine(nomes);
