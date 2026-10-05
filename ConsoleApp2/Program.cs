@@ -12,6 +12,8 @@ int numero1 = 10;
 
 int numero2 = 20;
 
-int numero3 = 30;
+List<string> nomes = new List<string>();
 
-string nome = "teste";
+nomes.Add("Lula");
+nomes.Add("Ciro");
+nomes.Add("Dilmo");
