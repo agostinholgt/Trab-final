@@ -18,5 +18,7 @@ namespace ConsoleApp2
         public decimal ValorTotal { get; set; }
 
         public string Status { get; set; }
+
     }
+
 }
