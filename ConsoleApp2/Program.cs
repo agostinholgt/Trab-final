@@ -15,4 +15,4 @@ List<string> nomes = new List<string>();
 nomes.Add("Lula");
 nomes.Add("Ciro");
 nomes.Add("Dilma");
-Console.WriteLine(nomes);
+Console.WriteLine(nomes); 
