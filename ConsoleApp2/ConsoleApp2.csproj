@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Services\suite.services.cs" />
+    <Compile Remove="Services\suiteServices.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Services\suite.services.cs" />
+    <None Include="Services\suiteServices.cs" />
   </ItemGroup>
 
 </Project>

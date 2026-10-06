@@ -8,5 +8,10 @@ namespace ConsoleApp2
 {
     internal class suite
     {
+        public int Id { get; set; }
+        public string Numero { get; set; }
+        public int Capacidade { get; set; }
+        public decimal Diaria { get; set; }
+        public bool Disponivel { get; set; }
     }
 }
