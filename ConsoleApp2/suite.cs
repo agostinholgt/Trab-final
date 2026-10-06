@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
-    internal class suite
+    public class Suite
     {
         public int Id { get; set; }
         public string Numero { get; set; }
