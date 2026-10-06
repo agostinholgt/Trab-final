@@ -1,5 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using ConsoleApp2;
 using ConsoleApp2.services;
 
 Console.WriteLine("augusto");
@@ -22,7 +21,7 @@ foreach (var reserva in ReservaServices.reservas)
     Console.WriteLine("Status: " + reserva.Status);
     Console.WriteLine("---------------------");
 }
-        foreach (var suite in suiteServices)
+        foreach (var suite in SuiteServices)
         {
             Console.WriteLine("ID: " + suite.Id);
             Console.WriteLine("Número: " + suite.Numero);

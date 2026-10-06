@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Services\suiteServices.cs" />
+    <None Include="Services\SuiteServices.cs" />
   </ItemGroup>
 
 </Project>
