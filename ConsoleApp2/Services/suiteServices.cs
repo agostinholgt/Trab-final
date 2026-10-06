@@ -2,11 +2,11 @@
 
 namespace ConsoleApp2.services
 {
-	public class suiteServices
+	public class SuiteServices
 	{
-		public static List<suite> reservas = new List<suite>()
+		public static List<Suite> reservas = new List<Suite>()
 		{
-			new suite
+			new Suite
 			{
 				Id = 1,
 				Numero = "101",
