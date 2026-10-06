@@ -4,7 +4,7 @@ namespace ConsoleApp2.services
 {
 	public class suiteServices
 	{
-		public static List<suite> suites = new List<suite>
+		public static List<suite> reservas = new List<suite>()
 		{
 			new suite
 			{
