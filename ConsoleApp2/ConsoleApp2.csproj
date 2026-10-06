@@ -8,15 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Services\suiteServices.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Dominio\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Services\SuiteServices.cs" />
   </ItemGroup>
 
 </Project>
