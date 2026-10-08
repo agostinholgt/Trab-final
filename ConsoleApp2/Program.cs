@@ -1,5 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using ConsoleApp2.services;
 using ConsoleApp2.Services;
 
 Console.WriteLine("augusto");

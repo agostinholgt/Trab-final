@@ -12,6 +12,6 @@ namespace ConsoleApp2
         public string Numero { get; set; }
         public int Capacidade { get; set; }
         public decimal Diaria { get; set; }
-        public bool Disponivel { get; set; }
+        public bool Disponivel { get; set; } 
     }
 }
