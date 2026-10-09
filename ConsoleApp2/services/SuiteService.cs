@@ -5,11 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using TrabalhoFinal.dominio;
 
-namespace ConsoleApp2.Services
+namespace TrabalhoFinal.Services
 {
     public static class SuiteServices
     {
-        public static List<Suite> Suites = new List<Suite>()
+        public static List <Suite> Suites = new List <Suite>()
         {
             new Suite
             {

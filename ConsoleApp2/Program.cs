@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using ConsoleApp2.Services;
+using TrabalhoFinal.Services;
 
 Console.WriteLine("augusto");
 
