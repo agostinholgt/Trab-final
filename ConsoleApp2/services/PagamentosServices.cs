@@ -3,14 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace TrabalhoFinal.services
 {
     public static class PagamentosServices
     {
-        public static List <pagamentos> Pagamentos = new List <pagamentos>()
+        public static List <Pagamentos> Pagamentos = new List <Pagamentos>()
         {
-            new pagamentos
+            new Pagamentos
             {
                 Id = 1,
                 ReservaId = 101,
@@ -19,7 +18,7 @@ namespace TrabalhoFinal.services
                 DataPagamento = new DateTime (2026, 10, 1),
                 StatusPagamento = true
             },
-            new pagamentos
+            new Pagamentos
             {
                 Id = 2,
                 ReservaId = 102,
@@ -28,7 +27,7 @@ namespace TrabalhoFinal.services
                 DataPagamento = new DateTime (2026, 10, 2),
                 StatusPagamento = true
             },
-            new pagamentos
+            new Pagamentos
             {
                 Id = 3,
                 ReservaId = 201,
@@ -37,7 +36,7 @@ namespace TrabalhoFinal.services
                 DataPagamento = new DateTime (2026, 10, 5),
                 StatusPagamento = false
             },
-            new pagamentos
+            new Pagamentos
             {
                 Id = 4,
                 ReservaId = 202,
