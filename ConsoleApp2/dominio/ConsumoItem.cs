@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TrabalhoPaulo.Models
+namespace TrabalhoFinal.dominio
 {
     public class ConsumoItem
     {
