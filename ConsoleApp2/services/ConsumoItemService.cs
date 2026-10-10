@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using TrabalhoFinal.dominio;
+using TrabalhoPaulo.Models;
 
 namespace TrabalhoFinal.Services
 {
