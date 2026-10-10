@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using TrabalhoFinal.dominio;
 
-namespace TrabalhoFinal.dominio
+namespace TrabalhoFinal.Services
 {
     public static class ConsumoItemServices
     {

@@ -1,7 +1,7 @@
 ﻿
 using TrabalhoFinal.dominio;
 
-namespace TrabalhoFinal.Servicos
+namespace TrabalhoFinal.Services
 {
     public static class SuiteService
     {
