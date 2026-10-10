@@ -33,3 +33,15 @@ foreach (var suite in SuiteServices.Suites)
     Console.WriteLine("--------------------");
 
 }
+
+
+
+SuiteService.Listar();
+
+SuiteService.Remover(3);
+
+SuiteService.BuscarPorId(2);
+
+SuiteService.Adicionar("401", 4, 280.00m, true);
+
+SuiteService.Editar(1, "101", 3, 190.00m, true);
